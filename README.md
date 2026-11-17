@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="public/banner.jpg" alt="Shopmate AI Banner" width="100%" />
+</p>
+
 <h1 align="center">Shopmate AI</h1>
 <h3 align="center">Next-Gen AI Retail & Smart Shop Management Platform</h3>
 
